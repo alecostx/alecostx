@@ -8,7 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecostx&layout=compact)
 - 🎓 I’m currently studying in SPTech School 
-- 📖 I’m currently learning CSS, JavaScript, HTML and MySQL.
+- 📖 Back-End .NET Developer
 - 💬 Trying to improve my english.
 - ⚡ I'm just a guy with a dream, hope it all goes well.
-
