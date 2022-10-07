@@ -10,4 +10,3 @@
 - 🎓 I’m currently studying in SPTech School 
 - 📖 Back-end .NET Developer.
 - 💬 Trying to improve my english.
-- ⚡ I'm just a guy with a dream, hope it all goes well.
