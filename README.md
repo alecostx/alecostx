@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecostx&layout=compact)
 - 🎓 I’m currently studying at São Paulo Tech School.
-- 📖 .NET Back-end Developer at Genial Investimentos.
+- 📖 .NET Back-end developer at Genial Investimentos.
