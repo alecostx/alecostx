@@ -7,6 +7,5 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alecosta.gg2@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecostx&layout=compact)
-- 🎓 I’m currently studying in SPTech School 
-- 📖 Back-end .NET Developer.
-- 💬 Trying to improve my english.
+- 🎓 I’m currently studying at São Paulo Tech School.
+- 📖 .NET Back-end Developer at Genial Investimentos.
