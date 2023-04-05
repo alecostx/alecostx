@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [Genial Investmentos](https://www.genialinvestimentos.com.br/)
 
-- 🌱 I’m currently working with **.NET 7, Framework 4.5, ASP.NET MVC, Flutter, Java, Spring, ReactJS, MSSQL, Boostrap, Jquery, Javascript**
+- 🌱 I’m currently working with **C#, .NET 7, Framework 4.5, ASP.NET MVC, Java, Spring, Flutter, ReactJS, MSSQL, Boostrap, Jquery, Javascript**
 
 - 📫 How to reach me **alecosta.gg2@gmail.com**
 
