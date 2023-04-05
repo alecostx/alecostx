@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Genial Investmentos](https://www.genialinvestimentos.com.br/)
+- 🔭 I’m currently working at [Genial Investmentos](https://www.genialinvestimentos.com.br/)
 
 - 🌱 I’m currently learning **.NET 6, Spring, React, SQL.**
 
