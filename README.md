@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [Genial Investmentos](https://www.genialinvestimentos.com.br/)
+- 🔭 I’m currently working at [Itaú Unibanco](https://www.itau.com.br/)
 
-- 🌱 I’m currently working with **C#, .NET 7, Framework 4.5, ASP.NET MVC, Java, Spring, Flutter, ReactJS, MSSQL, Boostrap, Jquery, Javascript**
+- 🌱 I’m currently working with **Java, Spring, Angular and Typescript**
 
 - 📫 How to reach me **alecosta.gg2@gmail.com**
 
